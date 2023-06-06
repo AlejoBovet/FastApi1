@@ -33,7 +33,7 @@ var/
 pytest.ini
 
 # Database files
-
+db/client.py
 
 # Log files
 *.log
@@ -41,3 +41,4 @@ pytest.ini
 # Other
 *.swp
 .DS_Store
+.gitattributes
