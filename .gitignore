@@ -32,7 +32,7 @@ var/
 pytest.ini
 
 # Database files
-db.sqlite3
+db/client.py
 
 # Log files
 *.log
