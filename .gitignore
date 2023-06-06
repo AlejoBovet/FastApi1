@@ -41,4 +41,3 @@ pytest.ini
 # Other
 *.swp
 .DS_Store
-.gitattributes
